@@ -3,6 +3,7 @@ layout: post
 title:  "The Stove, the Dryer, and the Refrigerator"
 date:   2025-08-16 20:00:59 +0200
 categories: stories
+author: jonathan
 ---
 It all started with the fridge... A white Kelvinator from the 90s, freezer on top and fridge underneath. This particular fridge belonged to Willien's parents and while there is nothing technically wrong with it, it is starting to show age.
 
