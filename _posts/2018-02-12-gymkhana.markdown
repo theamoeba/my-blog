@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Gymkhana"
+date:   2018-02-12 21:00:00 +0200
+categories: blog
+author: jonathan
+---
+![Golf GTI]({{ "/assets/blog_images/gymkhana/22636852_125852071450216_1838324256992133120_n.jpg" | absolute_url }})
+
+The local gymkhana in Ceres at Du Plessis Auto. I came across these pictures tonight. This was back in October 2017.
+
+Off we go.
+
+![Citi Golf]({{ "/assets/blog_images/gymkhana/22637457_384655951964868_5251135859150815232_n.jpg" | absolute_url }})
+
+Lift a wheel there.
+
+![Mini Cooper]({{ "/assets/blog_images/gymkhana/22708751_1310019545793568_7478630470087868416_n.jpg" | absolute_url }})
+
+The fastest car of the day :)

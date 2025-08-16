@@ -1,0 +1,32 @@
+---
+layout: post
+title:  "Muffin"
+date:   2018-04-17 22:06:00 +0200
+categories: blog
+author: jonathan
+---
+Say hello to Muffin :).
+
+![Muffin]({{ "/assets/blog_images/muffin/21568477_1912935205621994_7024672115030753280_n.jpg" | absolute_url }})
+
+Yawn...!
+
+![Muffin]({{ "/assets/blog_images/muffin/11875488_1652146261707472_1465842062_n.jpg" | absolute_url }})
+
+Hello.
+
+![Muffin]({{ "/assets/blog_images/muffin/13743619_603321086496809_1553842447_n.jpg" | absolute_url }})
+
+Just standing around...
+
+![Muffin]({{ "/assets/blog_images/muffin/19955119_737280863117495_2666203280882794496_n.jpg" | absolute_url }})
+
+Looking up :)
+
+![Muffin]({{ "/assets/blog_images/muffin/20838810_701214880072299_3774250713777963008_n.jpg" | absolute_url }})
+
+Outside.
+
+![Muffin]({{ "/assets/blog_images/muffin/20902665_145781299341059_5531612732706521088_n.jpg" | absolute_url }})
+
+The cuteness.
